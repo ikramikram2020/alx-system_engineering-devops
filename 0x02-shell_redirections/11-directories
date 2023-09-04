@@ -1,2 +1,0 @@
-#!/bin/bash
-find . -type d -not -path "." -not -path "./.*" | wc -l
