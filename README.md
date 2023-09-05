@@ -1,4 +1,4 @@
-Welcome Alx System engineering & DevOps ✨🚀
+Welcome to  Alx System engineering & DevOps ✨🚀
 
 Shell Scripting Repository 🚀
 
