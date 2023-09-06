@@ -6,7 +6,7 @@ Welcome to the Shell Scripting Repository! 🚀 This repository is a treasure tr
 
 Here's a glimpse of the exciting projects awaiting you in this repository:
 
-###🌟 0x00-shell_basics  📜📝
+### 🌟 0x00-shell_basics  📜📝
 
 This project is your gateway to the fundamentals of shell scripting. It encompasses a range of tasks that involve directory manipulation, file operations, and executing commands. These tasks are carefully crafted to boost your prowess in shell scripting and command-line wizardry.
 
@@ -19,7 +19,7 @@ This project is your gateway to the fundamentals of shell scripting. It encompas
 
 For in-depth instructions and commands for each task, refer to the README file within the directory.
 
-###🌟 0x01-shell_permissions  📜📝
+### 🌟 0x01-shell_permissions  📜📝
 
 The Shell Permissions project is all about mastering file permissions and managing them like a pro. It presents a series of tasks that will equip you with the skills to work with shell scripts, change file ownership, set permissions, and manage user groups.
 
@@ -32,7 +32,7 @@ The Shell Permissions project is all about mastering file permissions and managi
 
 To conquer each task, navigate to the 0x01-shell_permissions directory and follow the instructions provided in the README file.
 
-###🌟 0x02-shell_redirections 📜📝
+### 🌟 0x02-shell_redirections 📜📝
 
 Shell, I/O Redirections and Filters is a project designed to enhance your command-line prowess and data manipulation skills through shell scripting. It offers a diverse set of tasks to expand your understanding of shell scripting concepts. 📝
 
