@@ -1,4 +1,4 @@
-# Shell Scripting Repository 🐚
+# Shell Scripting Repository 
 
 Welcome to the Shell Scripting Repository! 🚀 This repository is a treasure trove of shell scripting and command-line wizardry. Inside, you'll find a collection of distinct projects, each focusing on various aspects of shell scripting and command-line operations. Dive in and sharpen your scripting skills!
 
@@ -58,19 +58,6 @@ The 0x03-shell_variables_expansions project is your key to mastering shell scrip
 
 To tackle each task, venture into the 0x03-shell_variables_expansions directory and follow the instructions provided in the README file.
 
-## Getting Started 🚀
 
-To embark on your shell scripting journey, follow these simple steps:
-
-### Usage Instructions 
-
-1. Open your terminal or command prompt.
-2. Clone the repository to your local machine using the command `git clone git@github.com:IsaMarvin/alx-system_engineering-devops.git`.
-3. Navigate to the project directory of your choice using the `cd` command.
-4. Inside the project directory, discover a README file packed with detailed instructions for each task.
-5. Execute the provided scripts using the appropriate command.
-6. Ensure you have the necessary permissions to execute the scripts. If needed, adjust file permissions using the `chmod` command.
-
-Feel free to explore these projects at your own pace. If questions arise or you encounter challenges, don't hesitate to open an issue on the issues page.
-
-Happy scripting! 🎉  Your command-line adventures await!
+Feel free to explore these projects at your own pace. If questi
+Happy coding! 🎉  Your command-line adventures await!
