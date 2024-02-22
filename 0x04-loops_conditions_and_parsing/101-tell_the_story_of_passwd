@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# This script reads from etc/passwd and prints the username, g_id, and home dir
+
+while IFS=: read -r USERNAME PASSWORD USER_ID GROUP_ID _ HOME_DIRECTORY COMMAND
+do
+	echo "The user $USERNAME is part of the $GROUP_ID gang, lives in $HOME_DIRECTORY and rides $COMMAND. $USER_ID's place is protected by the passcode $PASSWORD, more info about the user here: $USERNAME"
+done < "/etc/passwd"
