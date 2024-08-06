@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# This bash script configures Nginx to run and listen on port 80 in an Ubuntu container.
+sudo rm /etc/nginx/sites-enabled/default
+sudo ln -s /etc/nginx/sites-available/default /etc/nginx/sites-enabled/default
+sudo service nginx restart
