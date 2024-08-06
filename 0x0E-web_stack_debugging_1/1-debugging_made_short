@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Configure Nginx to run and listen on port 80
-sed -i 's/8080/80/g' /etc/nginx/sites-enabled/default
-service nginx restart
-echo "" > /run/nginx.pid
+# Script that make nginx listen to port 80
+ln -sf /etc/nginx/sites-available/default /etc/nginx/sites-enabled/default
+service nginx start
+kill "$(pgrep 'nginx' | head -1)"
